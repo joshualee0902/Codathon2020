@@ -1,11 +1,11 @@
 [1] + Sequence Length: 50
-[2] + Nucleotide Frequency: {'A': 10, 'C': 15, 'G': 13, 'T': 12}
-[3] + DNA/RNA Transcription: UACACUUCGGAAUACCGCCUGACCGCUUGAAGUGCGCCCUUAGUGGCUAG
+[2] + Nucleotide Frequency: {'A': 13, 'C': 11, 'G': 11, 'T': 15}
+[3] + DNA/RNA Transcription: AGUCGCGUUGAGGCAUCGAUUUCCUGCGCUAGCAUGUAAUAAUAAUCUCA
 [4] + DNA String + Reverse Complement:
-5' TACACTTCGGAATACCGCCTGACCGCTTGAAGTGCGCCCTTAGTGGCTAG 3'
-3' ATGTGAAGCCTTATGGCGGACTGGCGAACTTCACGCGGGAATCACCGATC 5' [Complement]
-5' CTAGCCACTAAGGGCGCACTTCAAGCGGTCAGGCGGTATTCCGAAGTGTA 3' [Rev. Complement]
-[5] + GC Content: 56%
-[6] + GC Content in Subsection (5): [40, 60, 20, 80, 80, 40, 60, 80, 40, 60]
-[7] + Aminoacids Sequence from DNA: ['Y', 'T', 'S', 'E', 'Y', 'R', 'L', 'T', 'A', '_', 'S', 'A', 'P', 'L', 'V', 'A']
-[8] + Codon frequency (L): {'CTG': 0.5, 'TTA': 0.5}
+5' AGTCGCGTTGAGGCATCGATTTCCTGCGCTAGCATGTAATAATAATCTCA 3'
+3' TCAGCGCAACTCCGTAGCTAAAGGACGCGATCGTACATTATTATTAGAGT 5' [Complement]
+5' TGAGATTATTATTACATGCTAGCGCAGGAAATCGATGCCTCAACGCGACT 3' [Rev. Complement]
+[5] + GC Content: 44%
+[6] + GC Content in Subsection (5): [60, 60, 60, 40, 40, 80, 40, 20, 0, 40]
+[7] + Aminoacids Sequence from DNA: ['S', 'R', 'V', 'E', 'A', 'S', 'I', 'S', 'C', 'A', 'S', 'M', '_', '_', '_', 'S']
+[8] + Codon frequency (L): {}
